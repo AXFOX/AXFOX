@@ -1,36 +1,9 @@
 你好！欢迎访问我的个人页面。
-You can use the [editor on GitHub](https://github.com/AXFOX/AXFOX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 我是谁？
+ 一名幼儿托育专业的专科毕业生，业余IT爱好者+半个极客+自由软件的受益者兼支持者+共产主义接班人+自我疗愈者。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 我的博客和本页面有什么关系？
+没有任何关系，这里仅仅是一个静态页面而已，通常情况下我不会在这里写任何东西。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AXFOX/AXFOX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 我的博客地址是？
+url[关于博主 丨十年之约](https://xfox.fun/about.html)
